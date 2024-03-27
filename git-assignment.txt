@@ -1,0 +1,86 @@
+﻿                 Git and Github Assignment
+
+
+
+
+       1. What is Git?
+
+          Git is a free and open source distributed version control system
+          designed to handle everything from small to large projects with 
+          speed and efficiency. The version control allows us to track and 
+          work together with our team members at the same workspace.
+
+
+
+       2. What do you understand by the term “Version Control System”?
+
+          Version control also known as source control, is the practice of 
+          tracking and managing changes to software code. It is serves
+          as a safety net to protect the source code from irreparable harm
+          giving the development team the freedom to experiment without
+          fear of causing damage or creating code conflicts.
+
+
+
+       3. What is Github?
+          
+          A Github can be divided into the Git and Hub. the services includes
+          access controls as well as a number of collaboration features like 
+          tools for basic task management. Github hosts your source code
+          projects in a variety of different programming languages and keeps 
+          track of the various changes made to every iteration.
+
+
+
+       4. Mention some popular Git hosting services?
+
+          Some Git hosting services are : 
+                                      1. Bitbucket
+                                      2. Github
+                                      3. Gitlab
+                                      4. Beanstalk
+                                      5. Codebase
+                                      6. AWS codecommit 
+
+
+
+       5. Different types of version control systems?
+
+          There are two types of version control system
+           1.  Centralized version control system(CVCS)
+           2.  Distributed version control system(DVCS).
+
+
+
+       6. What benefits come with using Git?
+
+          Benefits with using git are : 
+                               1. Branching capabilities
+                               2. Free and open-source
+                               3. Fast and Small
+                               4. Security
+                               5. Implicit backup
+
+
+
+       7. What is a Git repository?
+
+          A Git repository is a central storage location for managing and 
+          tracking changes in files and directories. It is a crucial component
+          of the Git version control system, which enables collaborative
+          development and allows multiple developers to work on a project 
+          simultaneously.
+
+
+
+       8. How can you initialize a repository in Git?
+
+          In Git repository to create a new repo, you'll use the git init
+          command. git init is a one time command you use during the initial
+          setup of a new repo. Executing this command will create a new '.git'
+          subdirectory in your current working directory. this will also create
+          a new main branch. 
+
+
+
+
